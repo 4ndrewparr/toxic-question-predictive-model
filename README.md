@@ -8,4 +8,4 @@ and a layer with extra features added.
 
 Kaggle Profile: https://www.kaggle.com/andrewparr
 
-You can take a look at the code online at https://mybinder.org/v2/gh/4ndyparr/toxic-question-predictive-model/master
+You can take a look at the code online at https://mybinder.org/v2/gh/4ndyparr/toxic-question-predictive-model/master.
