@@ -6,6 +6,8 @@ The model uses pre-trained embeddings and blends with some extra features the ou
 from a binary LSTM with Attention, a GRU with Attention, a Global Average Pooling layer, a Global
 Max Pooling layer and a Capsule layer.
 
+![Diagram](https://github.com/4ndyparr/toxic-question-predictive-model/blob/master/diagram.png)
+
 Kaggle Profile: https://www.kaggle.com/andrewparr
 
 You can take a look at the code online at https://mybinder.org/v2/gh/4ndyparr/toxic-question-predictive-model/master.
