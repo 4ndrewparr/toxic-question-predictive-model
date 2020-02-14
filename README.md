@@ -6,9 +6,7 @@ A **Binary Classifier** (toxic question or not), this model uses pre-trained emb
 from a binary LSTM with Attention, a GRU with Attention, a Global Average Pooling layer, a Global
 Max Pooling layer and a Capsule layer.  
 
-Take a look at the code at: https://mybinder.org/v2/gh/4ndyparr/toxic-question-predictive-model/master  
-
-Some of the machine learning techniques applied in the model are: Meta-Embeddings by Averaging, Cyclic Learning Rate and Threshold Optimization. 
+Some of the machine learning techniques applied in the model are: **Meta-Embeddings by Averaging**, **Cyclic Learning Rate** and **Threshold Optimization**. 
 
 ![Diagram](https://github.com/4ndyparr/toxic-question-predictive-model/blob/master/diagram.png)
 
