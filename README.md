@@ -8,7 +8,7 @@ Max Pooling layer and a Capsule layer.
 
 Some of the machine learning techniques applied in the model are: **Meta-Embeddings by Averaging**, **Cyclic Learning Rate** and **Threshold Optimization**. 
 
-![Diagram](https://github.com/4ndyparr/toxic-question-predictive-model/blob/master/diagram.png)
+![Diagram](https://github.com/4ndyparr/toxic-question-predictive-model/blob/master/QuoraNN.png)
 
 Kaggle Profile: https://www.kaggle.com/andrewparr
 
